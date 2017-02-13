@@ -1,4 +1,4 @@
-# vrn-stops
+# rnn-stops
 
 This is a simple script to download all [RNN](http://www.rnn.info/) stops as [GTFS-compatible CSV](https://developers.google.com/transit/gtfs/reference/stops-file).
 
