@@ -1,6 +1,6 @@
 # rnn-stops
 
-This is a simple script to download all [RNN](http://www.rnn.info/) stops as [GTFS-compatible CSV](https://developers.google.com/transit/gtfs/reference/stops-file).
+This is a simple script to download all [RNN](http://www.rnn.info) stops as [GTFS-compatible CSV](https://developers.google.com/transit/gtfs/reference/stops-file).
 
 The script uses the following endpoint:
 
@@ -14,7 +14,7 @@ The script produces CSV output in the following format:
 
 ```
 "stop_id","stop_name","stop_lon","stop_lat","stop_code"
-"6030182","Seibersbach, Gh Linde",7.7161450436,49.9614202034,"de:7133:30182"
+"6030703","Kirn (Nahe), Hochhaus",7.4807690492,49.785370771500006,"de:7133:30703"
 ```
 
 # Usage
